@@ -1,7 +1,9 @@
-# templete-hexagonal
+# templete-hexagonal Empresa Double V Partners
+API que nos permite crear, eliminar, editar y recuperar tickets con
+paginación. Que se pueda recuperar todos o filtrar por uno específico
 
-![userrolemembership1](https://github.com/choquidownn25/templete-hexagonal/blob/main/img/List.jpg)
-![userrolemembership2](https://github.com/choquidownn25/templete-hexagonal/blob/main/img/Post.jpg)
+![userrolemembership1](https://github.com/choquidownn25/Empresa-Double-V-Parther/blob/main/Backend/templete-hexagonal-main/img/Muestra%20rest.jpg)
+![userrolemembership2](https://github.com/choquidownn25/Empresa-Double-V-Parther/blob/main/Backend/templete-hexagonal-main/img/Test.jpg)
 # Features
 
 - spring initializr https://start.spring.io/
@@ -13,6 +15,8 @@
 - Struct Map
 - Validation
 - Swagger 2
+- JUnit5
+- Mokito
 
 
 # Development Tools & Environment
