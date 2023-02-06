@@ -6,7 +6,13 @@ paginación. Que se pueda recuperar todos o filtrar por uno específico
 
 ![userrolemembership2](https://github.com/choquidownn25/Empresa-Double-V-Parther/blob/main/Backend/templete-hexagonal-main/img/Test.jpg)
 
-![userrolemembership2](https://github.com/choquidownn25/Empresa-Double-V-Parther/blob/main/Backend/templete-hexagonal-main/img/List%20Ticket.jpg)
+![userrolemembership3](https://github.com/choquidownn25/Empresa-Double-V-Parther/blob/main/Backend/templete-hexagonal-main/img/List%20Ticket.jpg)
+
+![userrolemembership4](https://github.com/choquidownn25/Empresa-Double-V-Parther/blob/main/Backend/templete-hexagonal-main/img/Get%20by%2001.jpg)
+
+![userrolemembership5](https://github.com/choquidownn25/Empresa-Double-V-Parther/blob/main/Backend/templete-hexagonal-main/img/Remote.jpg)
+
+![userrolemembership6](https://github.com/choquidownn25/Empresa-Double-V-Parther/blob/main/Backend/templete-hexagonal-main/img/Remote.jpg)
 
 # Features
 
